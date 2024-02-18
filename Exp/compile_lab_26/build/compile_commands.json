@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/USTC/3nd_year-1st_sem/Compile/Exp/compile_lab_26/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\pl0.dir\\pl0.c.obj -c E:\\USTC\\3nd_year-1st_sem\\Compile\\Exp\\compile_lab_26\\pl0.c",
+  "file": "E:/USTC/3nd_year-1st_sem/Compile/Exp/compile_lab_26/pl0.c",
+  "output": "CMakeFiles/pl0.dir/pl0.c.obj"
+},
+{
+  "directory": "E:/USTC/3nd_year-1st_sem/Compile/Exp/compile_lab_26/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\pl0.dir\\set.c.obj -c E:\\USTC\\3nd_year-1st_sem\\Compile\\Exp\\compile_lab_26\\set.c",
+  "file": "E:/USTC/3nd_year-1st_sem/Compile/Exp/compile_lab_26/set.c",
+  "output": "CMakeFiles/pl0.dir/set.c.obj"
+}
+]
